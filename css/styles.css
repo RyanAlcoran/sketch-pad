@@ -1,0 +1,12 @@
+.grid_container {
+    border-style: solid;
+    border-color: red;
+    width: 500px;
+    height: 500px;
+    
+}
+.square{
+    background: black;
+    border: 1px solid white;
+    float: left;
+}
