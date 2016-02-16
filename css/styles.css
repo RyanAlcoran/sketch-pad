@@ -1,12 +1,20 @@
+body{
+    background-color: aliceblue;
+    font-family: sans-serif;
+}
+.button_container {
+    margin: 15px 0px 30px; 
+}
 .grid_container {
-    border-style: solid;
-    border-color: red;
     width: 500px;
     height: 500px;
     
 }
-.square{
+.square {
     background: black;
-    border: 1px solid white;
+    border: 1px solid darkgrey;
     float: left;
+}
+.colored {
+    background: darkred;
 }
